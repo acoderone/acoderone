@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acoderone" alt="acoderone" /></a> </p>
 
-- 🔭 I’m currently working on [Connect](https://github.com/acoderone/Connect)
+- 🔭 I’m currently working on [Whiteboard]([https://github.com/acoderone/Connect](https://github.com/acoderone/WhiteBoard))
 
 - 📫 How to reach me **avi5200786@gmail.com**
 - Portfolio - (https://ashishportfoliooo.netlify.app/) 
